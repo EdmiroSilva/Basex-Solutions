@@ -44,7 +44,7 @@ export function Section() {
       <div className="p-10 bg-zinc-200">
         <div className="text-center mb-8">
           <div className="absolute inset-0 flex items-center justify-center"></div>
-          <h1 className="text-5xl font-bold p-10">Os nossos serviços</h1>
+          <h1 className="text-4xl font-bold p-10">Os nossos serviços</h1>
           <p className="text-lg">
             A <span className="font-semibold"> Basex</span> é uma empresa de
             renome no mercado de materiais de construção, atendendo às
@@ -103,7 +103,7 @@ export function Section() {
       </div>
       <div className="bg-white py-10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-bold text-center mb-8">Galeria</h2>
+          <h2 className="text-4xl font-bold text-center mb-8">Galeria</h2>
           <div className="flex flex-col md:flex-row items-center md:justify-between">
             <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
               <img
@@ -155,7 +155,7 @@ export function Section() {
       </div>
       <div className="p-10 bg-zinc-200">
         <div className="text-center mb-8">
-          <h2 className="text-3xl font-bold">Nossos clientes</h2>
+          <h2 className="text-4xl font-bold">Nossos clientes</h2>
         </div>
         <div className="flex justify-center items-center flex-wrap space-x-4">
           <img
