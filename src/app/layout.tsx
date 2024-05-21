@@ -16,10 +16,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="PT">
-      <body className={inter.className}>
-        {children}
-        <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-      </body>
+      <body className={inter.className}>{children}</body>
     </html>
   );
 }
